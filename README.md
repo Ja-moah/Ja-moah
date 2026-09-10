@@ -1,13 +1,9 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0B3A53,100:00D9FF&height=125&section=header&text=JA%E2%80%94MOAH&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20FinTech%20%E2%80%A2%20Data%20Systems&descAlignY=58&descSize=14" />
-
 <a href="https://github.com/Ja-moah">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=30&lines=Building+systems+that+move+real+work+forward.;Python+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;APIs+%E2%80%A2+Automation+%E2%80%A2+Business+Systems" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=Ja-moah&label=VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Ja-moah?label=FOLLOWERS&style=flat-square&color=0B3A53&labelColor=0D1117" alt="Followers" />
 <img src="https://img.shields.io/badge/Ghana-%F0%9F%87%AC%F0%9F%87%AD-00D9FF?style=flat-square&labelColor=0D1117" alt="Ghana" />
