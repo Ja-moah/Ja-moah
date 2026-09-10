@@ -1,44 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0B3A53,100:00D9FF&height=220&section=header&text=JA%E2%80%94MOAH&fontSize=58&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Building%20systems%20that%20move%20real%20work%20forward.&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0B3A53,100:00D9FF&height=125&section=header&text=JA%E2%80%94MOAH&fontSize=42&fontColor=F0F6FC&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20FinTech%20%E2%80%A2%20Data%20Systems&descAlignY=58&descSize=14" />
 
 <a href="https://github.com/Ja-moah">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=850&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=45&lines=Software+Engineer+%E2%80%A2+Backend+%26+APIs;FinTech+%E2%80%A2+Data+Systems+%E2%80%A2+Automation;Python+%E2%80%A2+Django+%E2%80%A2+PostgreSQL;I+build+around+real+operational+problems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=760&height=30&lines=Building+systems+that+move+real+work+forward.;Python+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker;APIs+%E2%80%A2+Automation+%E2%80%A2+Business+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ja-moah&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Ja-moah?label=FOLLOWERS&style=for-the-badge&color=0B3A53&labelColor=0D1117" alt="Followers" />
-<img src="https://img.shields.io/badge/FOCUS-Backend%20%26%20Business%20Systems-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
+<img src="https://komarev.com/ghpvc/?username=Ja-moah&label=VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Ja-moah?label=FOLLOWERS&style=flat-square&color=0B3A53&labelColor=0D1117" alt="Followers" />
+<img src="https://img.shields.io/badge/Ghana-%F0%9F%87%AC%F0%9F%87%AD-00D9FF?style=flat-square&labelColor=0D1117" alt="Ghana" />
+
+</div>
+
+## `01 / ABOUT`
+
+I build **backend-heavy products and business systems** where correctness, security and real operational value matter — from financial transaction engines and APIs to data migration, automation and enterprise software.
+
+`Software Engineer` · `Backend & APIs` · `FinTech` · `Data Systems` · `Automation`
+
+## `02 / ENGINEERING STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,react,ts,tailwind,docker,linux,githubactions,git,nginx,vscode,postman&theme=dark&perline=14" alt="Engineering stack" />
 
 </div>
 
 ---
 
-## `01 / ABOUT`
-
-```python
-class JaMoah:
-    role = "Software Engineer"
-    base = "Ghana 🇬🇭"
-    focus = ["Backend Engineering", "FinTech", "Data Systems", "Automation"]
-    principle = "Learn daily. Improve by 1%. Finish what you start."
-
-    def build(self):
-        return "software around real operational problems"
-```
-
-I build **backend-heavy products and business systems** where correctness, security and real operational value matter — from financial transaction engines to automation, data workflows and enterprise software.
-
-- 🔭 **Currently building:** reliable backend systems, APIs and business automation
-- 🧠 **Exploring deeply:** transaction integrity, data migration, system design and secure integrations
-- 🐧 **Daily environment:** Ubuntu + Docker + PostgreSQL + Git
-- ⚡ **Bias:** fewer buzzwords, more working systems
-
----
-
-## `02 / CURRENTLY BUILDING`
+## `03 / CURRENTLY BUILDING`
 
 <table>
 <tr>
@@ -64,23 +56,6 @@ A secure connector-based workflow for moving heterogeneous operational data thro
 </td>
 </tr>
 </table>
-
----
-
-## `03 / ENGINEERING STACK`
-
-<div align="center">
-
-### Core
-<img src="https://skillicons.dev/icons?i=python,django,postgres,redis&theme=dark" alt="Core stack" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css&theme=dark" alt="Frontend stack" />
-
-### Infrastructure & Workflow
-<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,github,nginx,vscode,postman&theme=dark" alt="Infrastructure stack" />
-
-</div>
 
 ---
 
