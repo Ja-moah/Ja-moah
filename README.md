@@ -57,36 +57,54 @@ A secure connector-based workflow for moving heterogeneous operational data thro
 
 ## `04 / SELECTED WORK`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Ja-moah/fincore">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Ja-moah&repo=fincore&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="FinCore" />
-</a>
-<a href="https://github.com/Ja-moah/self-checkout">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Ja-moah&repo=self-checkout&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Self Checkout" />
-</a>
+### [FinCore](https://github.com/Ja-moah/fincore)
+Ledger-driven transaction engine focused on correctness, concurrency, idempotency and auditability.
 
-<a href="https://github.com/Ja-moah/acs-truck-operations">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Ja-moah&repo=acs-truck-operations&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="ACS Truck Operations" />
-</a>
-<a href="https://github.com/Ja-moah/evoting">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Ja-moah&repo=evoting&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="eVoting" />
-</a>
+`Django` `DRF` `PostgreSQL` `Docker`
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### [Self Checkout](https://github.com/Ja-moah/self-checkout)
+Self-checkout system exploring a practical retail workflow from product selection through checkout.
+
+`Application Design` `Business Systems`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ACS Truck Operations](https://github.com/Ja-moah/acs-truck-operations)
+Operational system for managing and tracking truck-related workflows and business activity.
+
+`Operations` `Automation` `Data`
+
+</td>
+<td width="50%" valign="top">
+
+### [eVoting](https://github.com/Ja-moah/evoting)
+Digital voting platform built around structured workflows, user management and deployment.
+
+`Web App` `Authentication` `Deployment`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `05 / LIVE GITHUB SIGNAL`
+## `05 / GITHUB SIGNAL`
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ja-moah&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ja-moah&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top languages" />
+**Building in public. Shipping working systems. Improving the engineering underneath them.**
 
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Ja-moah&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub streak" />
+[Profile](https://github.com/Ja-moah) · [Repositories](https://github.com/Ja-moah?tab=repositories) · [FinCore](https://github.com/Ja-moah/fincore) · [Self Checkout](https://github.com/Ja-moah/self-checkout)
 
 </div>
 
@@ -96,7 +114,7 @@ A secure connector-based workflow for moving heterogeneous operational data thro
 
 <div align="center">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ja-moah&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=F0F6FC&area=true&area_color=0B3A53&hide_border=true" alt="Contribution activity graph" />
+My contribution history, commits and current repository activity are available directly on my [GitHub profile](https://github.com/Ja-moah).
 
 </div>
 
@@ -109,9 +127,9 @@ A secure connector-based workflow for moving heterogeneous operational data thro
 <p><code>GitHub Actions powered • refreshed automatically</code></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ja-moah/Ja-moah/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ja-moah/Ja-moah/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ja-moah/Ja-moah/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ja-moah/Ja-moah/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ja-moah/Ja-moah/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ja-moah/Ja-moah/gh-pages/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
